@@ -28,3 +28,4 @@ Coinbase API
 
 🧪 Exemplo de dados armazenados
 
+![imagem](image.png)
